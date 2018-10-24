@@ -1,0 +1,98 @@
+
+body{
+	background-color: #beeeef;
+	margin: 0 15%;
+	font-family: sans-serif;
+}
+h1{
+	font-family: serif;
+	font-size: 24px;
+	text-align: center;
+	color: crimson;
+}
+h2{
+	font-family: serif;
+	font-size: 22px;
+	text-align: center;
+	color: crimson;
+	
+}
+h3{
+	font-family: serif;
+	font-size: 18px;
+	text-align: left;
+	color: crimson;
+	padding: 2px 2px 2px 2px;
+}
+p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+}
+li{
+	display: inline;
+	float:left; 
+}
+a{
+	display: block;
+	border-style: ridge; 
+}
+a:link{
+	color: white;
+ }
+ a:active{
+	 color: lightgray;
+ }
+ a:visited{
+	 color: #C0B6AA;
+ }
+ a:hover{
+	 color: #003642;
+ }
+div{
+	background-color: #001a29;
+	border: 2px dotted #000000;
+	padding: 10px;
+	
+}
+#rolls img {
+	display: inline;
+	float: right;
+	margin: 0 5px 0 0;
+	
+}
+#menuTitles{color: #CC1449;}
+#contactPage{
+	text-align:center;
+	color: #CC1449;
+}
+#PhoneNumber{
+	text-align:center;
+	color: #CC1449;
+	background-image: url("background.jpg");
+}
+#mainPage{
+	background-image: url("background.jpg");
+	background-size: 1280px 720px;
+}
+.box{
+	 background-color: #3d9799;
+   border-radius: 8px ;
+   -webkit-border-radius: 8px ;
+   margin: 10px;
+   width: 375px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   float: left;
+}
+
+	
